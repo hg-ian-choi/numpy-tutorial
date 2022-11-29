@@ -11,4 +11,3 @@ print(type(a))
 
 b = np.array([6, 7, 8])
 print(b)
-print(type(b))
